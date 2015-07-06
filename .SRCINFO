@@ -1,7 +1,7 @@
 pkgbase = screenkey
 	pkgdesc = Screencast tool to show your keys inspired by Screenflick, based on key-mon.
 	pkgver = 0.2
-	pkgrel = 6
+	pkgrel = 7
 	url = http://launchpad.net/screenkey
 	arch = any
 	license = GPL3

@@ -3,7 +3,7 @@
 
 pkgname=screenkey
 pkgver=0.2
-pkgrel=6
+pkgrel=7
 pkgdesc="Screencast tool to show your keys inspired by Screenflick, based on key-mon."
 arch=('any')
 url="http://launchpad.net/screenkey"
